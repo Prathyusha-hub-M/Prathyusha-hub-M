@@ -1,60 +1,17 @@
 # Hello, I'm Prathyusha  Marri
 <a href="https://www.linkedin.com/in/prathyusha-marri-7a61b81b4/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
-[Brief Introduction - Remove this afterwards]
+I'm a **Data Analyst** with 2 years of experience working with **SQL**, **Python**, and **Power BI**. I enjoy working with data, finding patterns, and turning numbers into meaningful stories that help teams make better decisions.
 
-I am a recent graduate with a profound interest in technology and a dedication to solving complex problems.
+I’ve worked on cleaning and analyzing large datasets using **Pandas** and **NumPy**, and I use tools like **Matplotlib**, **Seaborn**, and **Plotly** to create simple and clear visualizations. I also use **SQL** for writing queries to work with databases like **MySQL**, **MS SQL Server**, and **SAP HANA**.
 
-## Objective
-[Provide Objective - Remove this afterwards]]
+When it comes to reports and dashboards, I’ve built interactive visuals using **Power BI**, **Tableau**, and **Excel**. I’m also comfortable with tools like **Jupyter Notebooks**, **Google Colab**, **Git**, and **GitHub**.
 
-My journey in computer science has led me to develop a passion for cybersecurity, and I am now eager to transition into this field, specifically aiming to join a Security Operations Center (SOC) as a Tier 1 Analyst.
+I'm currently working on **sales data analysis**, applying **statistics**, **correlation analysis**, and **time series forecasting** to uncover trends and improve decision-making. I'm also familiar with **hypothesis testing**, **A/B testing**, and **natural language processing** using **NLTK**. Additionally, I have experience with cloud platforms like **Azure** and **GCP**.
 
-## Skills
-[Provide skills and associated project. Make sure to hyperlink the project - Remove this afterwards]]
-
-| Skill                                         | Associated Project         |
-|-----------------------------------------------|----------------------------|
-| SIEM Implementation and Log Analysis          | <a href="https://google.com">Detection Lab</a>|
-| Network Traffic Monitoring and Attack Detection | <a href="https://google.com">Detection Lab</a>|
-| Security Automation with Shuffle SOAR         | SOC Automation Lab|
-| Incident Response Planning and Execution      | SOC Automation Lab|
-| Case Management with TheHive                  | SOC Automation Lab|
-| Scripting and Automation for Threat Mitigation | SOC Automation Lab|
-
-## Tools
-[Provide tools and break them down into categories. Use ChatGPT to help create the link - Remove this afterwards]]
-
-### Network
-<div>
-    <img src="https://img.shields.io/badge/-Wireshark-1679A7?&style=for-the-badge&logo=Wireshark&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Suricata-EF3B2D?&style=for-the-badge&logo=Suricata&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Zeek-777BB4?&style=for-the-badge&logo=Zeek&logoColor=white" />
-</div>
-
-### Endpoint
-<div>
-    <img src="https://img.shields.io/badge/-Microsoft_Defender_for_Endpoint-00A4EF?&style=for-the-badge&logo=Microsoft&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Velociraptor-4B275F?&style=for-the-badge&logo=Velociraptor&logoColor=white" />
-</div>
-
-### SIEM
-<div>
-    <img src="https://img.shields.io/badge/-Microsoft_Sentinel-0078D4?&style=for-the-badge&logo=Microsoft&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Splunk-000000?&style=for-the-badge&logo=Splunk&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Elastic-005571?&style=for-the-badge&logo=Elastic&logoColor=white" />
-</div>
-
-## Certifications
-[Provide certifications that you have obtained. Use ChatGPT to help create the link - Remove this afterwards]]
-<div>
-<img src="https://img.shields.io/badge/-Security%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" />
-<img src="https://img.shields.io/badge/-Network%2B-007ACC?&style=for-the-badge&logo=CompTIA&logoColor=white" />
-<img src="https://img.shields.io/badge/-A%2B-4D4D4D?&style=for-the-badge&logo=CompTIA&logoColor=white" />
-<img src="https://img.shields.io/badge/-CDSA-006400?&style=for-the-badge&logoColor=white" />
-<img src="https://img.shields.io/badge/-CCD-000080?&style=for-the-badge&logoColor=white" />
-</div>
+Above all, I love learning and collaborating with others to turn data into insights. Feel free to check out my projects!
 
 ## Projects
-- Detection Lab
-- SOC Automation Project
+- [Inventory analysis](https://github.com/Prathyusha-hub-M/Inventory-Analysis-)
+                    
+
