@@ -1,6 +1,9 @@
 # Hello, I'm Prathyusha  Marri
 <a href="https://www.linkedin.com/in/prathyusha-marri-7a61b81b4/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-
+## Projects
+- [Marketing-Analysis](https://github.com/Prathyusha-hub-M/Marketing-Analysis)
+- [Inventory analysis](https://github.com/Prathyusha-hub-M/Inventory-Analysis-)
+  
 I'm a **Data Analyst** with 2 years of experience working with **SQL**, **Python**, and **Power BI**. I enjoy working with data, finding patterns, and turning numbers into meaningful stories that help teams make better decisions.
 
 I’ve worked on cleaning and analyzing large datasets using **Pandas** and **NumPy**, and I use tools like **Matplotlib**, **Seaborn**, and **Plotly** to create simple and clear visualizations. I also use **SQL** for writing queries to work with databases like **MySQL**, **MS SQL Server**, and **SAP HANA**.
@@ -11,7 +14,6 @@ I'm currently working on **sales data analysis**, applying **statistics**, **cor
 
 Above all, I love learning and collaborating with others to turn data into insights. Feel free to check out my projects!
 
-## Projects
-- [Inventory analysis](https://github.com/Prathyusha-hub-M/Inventory-Analysis-)
+
                     
 
