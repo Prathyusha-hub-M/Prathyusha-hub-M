@@ -3,6 +3,7 @@
 <a href="https://www.linkedin.com/in/prathyusha-marri-7a61b81b4/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
 ### 🔭 Featured Projects 
+- [Customer_Support_Ticket_Priority_Prediction](https://github.com/Prathyusha-hub-M/Customer_Support_Ticket_Priority_Prediction)
 - [Marketing-Analysis](https://github.com/Prathyusha-hub-M/Marketing-Analysis)
 - [Inventory analysis](https://github.com/Prathyusha-hub-M/Inventory-Analysis-)
   
