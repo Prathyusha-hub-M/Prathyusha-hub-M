@@ -8,7 +8,7 @@
 - [Marketing-Analysis](https://github.com/Prathyusha-hub-M/Marketing-Analysis)
 - [Inventory analysis](https://github.com/Prathyusha-hub-M/Inventory-Analysis-)
 
-I am a GenAI and Machine Learning Engineer with 4+ years of experience building and deploying large-scale AI systems in production environments:contentReference[oaicite:0]{index=0}. My work centers on architecting reliable, high-performance LLM platforms, hybrid retrieval systems, and end-to-end ML pipelines that operate at enterprise scale.
+I am a GenAI and Machine Learning Engineer with 4+ years of experience building and deploying large-scale AI systems in production environments. My work centers on architecting reliable, high-performance LLM platforms, hybrid retrieval systems, and end-to-end ML pipelines that operate at enterprise scale.
 
 I specialize in designing AI systems that are accurate, observable, fault-tolerant, and optimized for latency and cost. I bring strong foundations in machine learning, deep learning, and distributed system-aware model serving, with hands-on experience across the full ML lifecycle from experimentation to production monitoring
 
