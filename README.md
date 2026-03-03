@@ -7,28 +7,24 @@
 - [Customer_Support_Ticket_Priority_Prediction](https://github.com/Prathyusha-hub-M/Customer_Support_Ticket_Priority_Prediction)
 - [Marketing-Analysis](https://github.com/Prathyusha-hub-M/Marketing-Analysis)
 - [Inventory analysis](https://github.com/Prathyusha-hub-M/Inventory-Analysis-)
-  
 
-**🛠️ Tech Stack:**  
-- **Languages:** Python · R · SQL · NoSQL · C++ · Java  
-- **ML & DL:** scikit-learn · TensorFlow · PyTorch · ARIMA · LSTM · CNN · ViT · Physics-Informed NN · NLTK 
-- **Data & BI:** Pandas · NumPy · PySpark · Apache Airflow · Snowflake · Power BI · Tableau · Excel · Matplotlib · Seaborn · Plotly
-- **DB & Cloud:** MySQL · MS SQL Server · SAP HANA · PostgreSQL · MongoDB · AWS · Azure · Docker · Kubernetes  
-- **Other Tools:** Git · GitHub · Flask · FlaskAPI · Kafka · SAP HANA · A/B Testing  
+I am a GenAI and Machine Learning Engineer with 4+ years of experience building and deploying large-scale AI systems in production environments:contentReference[oaicite:0]{index=0}. My work centers on architecting reliable, high-performance LLM platforms, hybrid retrieval systems, and end-to-end ML pipelines that operate at enterprise scale.
 
-**🚀 Highlights:**  
-- Reduced operational costs by **25%** through end-to-end ML pipelines for retail forecasting and microstructure analysis. 
-- Accelerated image-based processing by **80%** with CNN segmentation (ResNet, VGG, HED) for grain-size quantification.  
-- Improved forecasting reliability by **15%** using ARIMA models for category-level sales predictions.  
-- Boosted SQL query performance by **40%** on 1 M+ records (CTEs, JOINS, window functions) to enable real-time BI analytics.  
-- Cut decision-making time by **30%** with automated Power BI dashboards and custom DAX KPIs.
-- Reduced raw material waste by **15%** via predictive stock modeling in Python.  
+I specialize in designing AI systems that are accurate, observable, fault-tolerant, and optimized for latency and cost. I bring strong foundations in machine learning, deep learning, and distributed system-aware model serving, with hands-on experience across the full ML lifecycle from experimentation to production monitoring
 
-### Projects  
-- **ML-Sales-Forecasting:** End-to-end ARIMA & LSTM models for weekly retail demand across 100+ locations.
-- **Microstructure-Segmentation:** CNN & Vision Transformer pipelines for grain-size analysis, achieving 80% faster inference.
-- **Inventory Analysis:** Power BI solution with ABC segmentation & DAX KPIs to visualize stock health and turnover.
-- **Marketing Analysis:** SQL-driven EDA and NLTK sentiment analysis on 2,000+ reviews, visualized in Power BI to optimize campaigns (+10% retention).
+## What I Built
+
+- Multi-agent LLM systems with tool use and structured outputs  
+- Hybrid RAG architectures combining dense retrieval, lexical search, reranking, and vector databases  
+- Automated LLM evaluation pipelines with benchmarking, grounding validation, and regression testing  
+- Scalable inference services using FastAPI, containerization, Kubernetes, and cloud infrastructure  
+- Performance optimized systems with latency reduction and efficient deployment strategies  
+
+## Technical Depth
+
+Strong expertise in Python, PyTorch, Transformer architectures, retrieval systems, and production serving frameworks:contentReference[oaicite:2]{index=2}. I focus on building AI systems that prioritize reliability, reproducibility, and measurable impact.  
+
+I am particularly interested in building foundational AI infrastructure and intelligent systems that operate reliably at scale.
 
 **👩‍💻 How I Work**  
 - GitHub Flow · Code reviews · pytest · GitHub Actions CI/CD  
@@ -36,5 +32,5 @@
 - Containerized deployments on AWS (Lambda, SageMaker) & Azure  
 
 **🤝 Let’s Connect**  
-- 📫 prathyushamarri01@gmail.com  
+- 📫 prathyushamarri31@gmail.com 
 - 🔗 [LinkedIn](https://linkedin.com/in/prathyushamarri) 
