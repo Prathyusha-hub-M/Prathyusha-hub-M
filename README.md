@@ -22,7 +22,7 @@ I specialize in designing AI systems that are accurate, observable, fault-tolera
 
 ## Technical Depth
 
-Strong expertise in Python, PyTorch, Transformer architectures, retrieval systems, and production serving frameworks:contentReference[oaicite:2]{index=2}. I focus on building AI systems that prioritize reliability, reproducibility, and measurable impact.  
+Strong expertise in Python, PyTorch, Transformer architectures, retrieval systems, and production serving frameworks. I focus on building AI systems that prioritize reliability, reproducibility, and measurable impact.  
 
 I am particularly interested in building foundational AI infrastructure and intelligent systems that operate reliably at scale.
 
