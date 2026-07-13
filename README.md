@@ -1,6 +1,6 @@
 # Hi, I’m Prathyusha Marri 👋  
 ### Gen AI Engineer | LLM & Agentic Systems | RAG | LangChain | Transformers | Vector Databases | Docker | AWS | SQL • Python • Power BI • ML • Deep Learning • NLP • Time-Series Forecasting  
-<a href="https://www.linkedin.com/in/prathyusha-marri-7a61b81b4/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+
 
 ### 🔭 Featured Projects 
 - [Production-Grade Hybrid RAG System](https://github.com/Prathyusha-hub-M/GITLAB-DOC-RAG)
