@@ -32,5 +32,5 @@ I am particularly interested in building foundational AI infrastructure and inte
 - Containerized deployments on AWS (Lambda, SageMaker) & Azure  
 
 **🤝 Let’s Connect**  
-- 📫 prathyushamarri31@gmail.com 
-- 🔗 [LinkedIn](https://linkedin.com/in/prathyushamarri) 
+- 📫 psha67339@gmail.com 
+
